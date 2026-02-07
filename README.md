@@ -11,3 +11,6 @@ Notes:
 * Battery Connector and holder: https://www.amazon.com/dp/B07BXBS93X?ref=ppx_yo2ov_dt_b_fed_asin_title
 * 8-Ohm Speaker: https://www.amazon.com/dp/B00XW2NPTG?ref=ppx_yo2ov_dt_b_fed_asin_title
 * Bluetooth Receiver: https://www.amazon.com/dp/B08D94PGCG?ref=ppx_yo2ov_dt_b_fed_asin_title
+
+![Audio Amplifier Version 2]("https://github.com/OceanSBlueTyphoon21/AudioAmpV2/blob/main/photos/Assembled_AudioAmp.jpg")
+
