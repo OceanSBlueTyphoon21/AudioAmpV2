@@ -15,3 +15,5 @@ Notes:
 ![Assembled Audio Amplifier Board](photos/Assembled_AudioAmp.jpg)
 
 ![Assembled Audio Amplifier System](photos/Full_assembled_system.jpg)
+
+![Audio Amplifier V2 System Decomposition](/photos/V2AudioAmp_SysDecomp.drawio.png)
